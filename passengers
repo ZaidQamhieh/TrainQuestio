@@ -1,0 +1,9 @@
+Seat{seatNumber=2, passengerName=' Bob Johnson, row=3, column=1'}	
+Seat{seatNumber=5, passengerName=' David Brown, row=4, column=2'}	
+Seat{seatNumber=10, passengerName=' Ahmad Wilson, row=3, column=3'}	
+Seat{seatNumber=15, passengerName=' Eve Davis, row=2, column=4'}	
+Seat{seatNumber=20, passengerName=' Frank Miller, row=1, column=5'}	
+Seat{seatNumber=22, passengerName=' Grace Lee, row=3, column=6'}	
+Seat{seatNumber=30, passengerName=' Henry Taylor, row=3, column=8'}	
+Seat{seatNumber=45, passengerName=' Isabella Moore, row=4, column=12'}	
+Seat{seatNumber=88, passengerName=' Jack White, row=1, column=22'}	
